@@ -1,2 +1,6 @@
 subcell/models
 subcell/subcell_tutorial_data_models.zip
+subcell/subcell_encoder_model.pth
+subcell/images_old
+subcell/path_list_old.csv
+subcell/__pycache__
