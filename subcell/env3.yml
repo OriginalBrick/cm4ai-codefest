@@ -1,0 +1,20 @@
+name: subcell
+channels:
+  - conda-forge
+  - defaults
+  - nvidia
+channel_priority: strict
+dependencies:
+  - python=3.11
+  - scikit-image=0.22.0
+  - numpy=1.26.4
+  - pandas=2.2.3
+  - pyyaml=6.0.1
+  - requests=2.32.3
+  - boto3=1.35.76
+  - imagecodecs=2024.12.30
+  - opencv=4.9.0
+  - pytorch=2.4.1        # from conda-forge or pytorch channel
+  - torchvision=0.19.1   # matches torch
+  # Optional GPU support—only if GPUs work on your cluster
+  #   # - pytorch-cuda=12.1
