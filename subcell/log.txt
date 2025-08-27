@@ -1,7 +1,18 @@
-INFO: Start: 2025/08/21 18:40:13
+INFO: Start: 2025/08/27 16:31:02
 INFO: Parameters used:
 INFO: {'log': <Logger SubCell inference (INFO)>, 'model_channels': 'ybg', 'model_type': 'mae_contrast_supcon_model', 'update_model': False, 'create_csv': True, 'gpu': 0}
 INFO: ----------
+WARNING: CUDA not available. Using CPU.
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R2_z01_red_masks, locations predicted [Vesicles,Nuclear speckles,Plasma membrane]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Cytosol,Nucleoplasm,Plasma membrane]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Nuclear membrane,Nucleoplasm,Nuclear bodies]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Cytosol,Nucleoplasm,Nuclear bodies]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Nucleoplasm,Cytosol,Nucleoli]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Nucleoplasm,Cytosol,Nuclear speckles]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Cytosol,Plasma membrane,Nucleoplasm]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Cytosol,Nuclear speckles,Nucleoli]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Cytosol,Intermediate filaments,Microtubules]
+INFO: - Saved results for B2AI_1_Paclitaxel_A1_R5_z01_red_masks, locations predicted [Nucleoplasm,Cytosol,Nuclear bodies]
 ERROR: - 'NoneType' object has no attribute 'ndim'
 INFO: ----------
-INFO: End: 2025/08/21 18:40:18
+INFO: End: 2025/08/27 16:31:20
